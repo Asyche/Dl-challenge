@@ -1,3 +1,4 @@
-.vcsode/
+.vscode/
 test/
 train/
+tf_env/
